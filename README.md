@@ -1,6 +1,9 @@
 # Heroku React Deployment
 
 To deploy a prodution ready react application to heroku follow the steps below. 
+```bash
+cd $YOUR_REACT_APP_REPO
+```
 
 ## Login to heroku cli
 ```bash 
@@ -9,7 +12,7 @@ heroku login
 
 ## Create Heroku app and set the build pack. 
 ```bash
-heroku create $APP_NAME --buildpack mars/create-react-app
+heroku create $YOUR_REACT_APP_NAME --buildpack mars/create-react-app
 ```
 When you deploy to heroku this buildpack with compile and publish a production ready application. 
 
