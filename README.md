@@ -41,7 +41,6 @@ Now we're ready to make
 In your code update your API endpoint to the domain for your deployed backend on Heroku.
 
 For example, instead of making requests to `http://localhost:4000/cats` you will want to update this to something like `https://cats-api.herokuapp.com/cats` (where ever you deployed your API to).
-```
 
 ## Commit and Deploy
 ```bash
