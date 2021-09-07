@@ -1,7 +1,7 @@
 # Heroku React Deployment
 
 ## Create a Separate Repo
-If this is a group project you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
+If this is a group project, and you weren't the original creator of the repo you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
 
 1. If you were not the original owner/creator of the project repo, go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
 
