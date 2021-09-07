@@ -41,14 +41,6 @@ Now we're ready to make
 In your code update your API endpoint to the domain for your deployed backend on Heroku.
 
 For example, instead of making requests to `http://localhost:4000/cats` you will want to update this to something like `https://cats-api.herokuapp.com/cats` (where ever you deployed your API to).
-
-If you're storing this in an environment variable make sure to add it as a config var in Heroku.
-
-_When it comes to deployed react apps config variables must say REACT_APP in front of the variable name to run properly._
-
-for example...
-```bash
-REACT_APP_API_URL = $NODE_SERVER_URL
 ```
 
 ## Commit and Deploy
