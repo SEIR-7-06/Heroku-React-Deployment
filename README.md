@@ -1,7 +1,9 @@
 # Heroku React Deployment
-<!-- 
-## Create a Separate Repo
-If this is a group project, and you weren't the original creator of the repo you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
+
+<details>
+  <summary>If you weren't the project creator/owner but you want your own version of the app to work on post gradudation - follow these steps!</summary>
+  
+  If this is a group project, and you weren't the original creator of the repo you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
 
 1. If you were not the original owner/creator of the project repo, go ahead and make your way to the repo for the project on Github and fork that project to your own Github account.
 
@@ -10,7 +12,9 @@ for example.
 ```bash
 git clone git@github.com:myusername/wayfarer-project.git wayfarer-project-personal
 ```
-3. Now you're ready to deploy! -->
+3. Now you're ready to deploy!
+</details>
+
 
 ## Deployment Steps
 
