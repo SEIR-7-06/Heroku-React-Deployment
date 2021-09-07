@@ -55,7 +55,7 @@ REACT_APP_API_URL = $NODE_SERVER_URL
 ```bash
 git add .
 git commit -m "Start with create-react-app"
-git push heroku master
+git push heroku main
 ```
 
 And that's it! Easy peasy lemon squeezy. 
