@@ -38,7 +38,9 @@ When you deploy to heroku this buildpack with compile and publish a production r
 Now we're ready to make 
 
 ## Update Your API Endpoint
-In your code update your API endpoint to the domain for your deployed backend on Heroku. For example, instead of making requests to `http://localhost:4000/cats` you will want to update this to `https://cats-api.herokuapp.com/cats`.
+In your code update your API endpoint to the domain for your deployed backend on Heroku.
+
+For example, instead of making requests to `http://localhost:4000/cats` you will want to update this to something like `https://cats-api.herokuapp.com/cats` (where ever you deployed your API to).
 
 If you're storing this in an environment variable make sure to add it as a config var in Heroku.
 
