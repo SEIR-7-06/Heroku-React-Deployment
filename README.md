@@ -1,5 +1,5 @@
 # Heroku React Deployment
-
+<!-- 
 ## Create a Separate Repo
 If this is a group project, and you weren't the original creator of the repo you will most likely want to have your own version of the app deployed that you can continue to work on post graduation.
 
@@ -10,7 +10,7 @@ for example.
 ```bash
 git clone git@github.com:myusername/wayfarer-project.git wayfarer-project-personal
 ```
-3. Now you're ready to deploy!
+3. Now you're ready to deploy! -->
 
 ## Deployment Steps
 
